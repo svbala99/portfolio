@@ -16,6 +16,10 @@ function AboutCard() {
             Pvt Ltd., Bangalore.
             <br />
             <br />
+            Enjoying the parenthood of being a proud FATHER of my little
+            princess. Moreover, an <span className="purple"> OPTIMIST</span>
+            <br />
+            <br />
             I pursued my master's from Vellore Institute of Technology,
             Tamilnadu, India
             <br />
@@ -25,6 +29,9 @@ function AboutCard() {
             indulge in these for replenishment:-
           </p>
           <ul>
+            <li className="about-activity">
+              <ImPointRight /> Pushing hobby projects to Github to explore the technologies such as React Native, React, Flutter.
+            </li>
             <li className="about-activity">
               <ImPointRight /> Cricket and Football
             </li>

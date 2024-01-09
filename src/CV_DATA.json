@@ -1,0 +1,211 @@
+{
+  "firstName": "BALAMURUGAN",
+  "lastName": "V",
+  "logo": "./src/Assets/logo.png",
+  "avatar": "./src/Assets/balamurugan.png",
+  "roles": [
+    "Mobile Application Engineer",
+    "Frontend Engineer",
+    "MERN Stack Developer",
+    "Open Source Contributor"
+  ],
+  "experience": [
+    {
+      "companyName": "Divum Corporate Services Pvt Ltd",
+      "logo": "https://uploads-ssl.webflow.com/64d655209af30b2ac5ce111c/64d655209af30b2ac5ce1179_Divum_Logo.svg",
+      "city": "Bengaluru",
+      "website": "https://divum.ai",
+      "role": "Tech Lead",
+      "from": "June 2022",
+      "to": "Present",
+      "accomplishments": [
+        "Led the implementation and delivery of major product features.",
+        "Uplifted code quality, design patterns, architectural choices within the team resulting in 25% increase in user engagement.",
+        "Conducted comprehensive code reviews, fostering a culture of testing and automation."
+      ]
+    },
+    {
+      "companyName": "Fleetstudio Technologies Pvt Ltd",
+      "logo": "https://media.licdn.com/dms/image/C4D0BAQG4uzZw53bUuQ/company-logo_200_200/0/1644334353639/fleetstudio_logo?e=2147483647&v=beta&t=_1w9Hjx6DsX0fRpWuMPhFQ3TnfzR-fjtk-iyZb8PtpY",
+      "city": "Chennai",
+      "website": "https://fleetstudio.com",
+      "role": "Front end Engineer",
+      "from": "May 2021",
+      "to": "May 2022",
+      "accomplishments": [
+        "Led and contributed to the development of performant web & mobile applications.",
+        "Demonstrated strong communication and planning skills, aligning development efforts with customer needs."
+      ]
+    },
+    {
+      "companyName": "Recrosoft Technologies Pvt Ltd",
+      "logo": "https://recro.io/static/svg/logo.svg",
+      "city": "Bengaluru",
+      "website": "https://recro.io",
+      "role": "Software Engineer",
+      "from": "Dec 2020",
+      "to": "Apr 2021",
+      "accomplishments": [
+        "Ensured end-to-end ownership and support of features, maintaining high app quality and performance."
+      ]
+    },
+    {
+      "companyName": "Infilect Technologies Pvt Ltd",
+      "logo": "https://i.ibb.co/jkmV7zn/infilect-logo-removebg-preview.png",
+      "city": "Bengaluru",
+      "website": "https://www.infilect.com",
+      "role": "React native Engineer",
+      "from": "Jun 2020",
+      "to": "Dec 2020",
+      "accomplishments": [
+        "Leveraged Typescript for efficient development, placing a strong emphasis on testing and quality practices."
+      ]
+    },
+    {
+      "companyName": "Mindship Technologies LLP",
+      "logo": "https://i.ibb.co/v4DB0Fz/1630568500211-removebg-preview.png",
+      "city": "Bengaluru",
+      "website": "https://www.mindship.io",
+      "role": "Software Engineer",
+      "from": "Jan 2020",
+      "to": "May 2020",
+      "accomplishments": [
+        "Collaborated with the UI/UX team to build intuitive and responsive user interfaces."
+      ]
+    },
+    {
+      "companyName": "Uniq Web Tech",
+      "logo": "https://i.ibb.co/nc47Kzh/logo-grey.png",
+      "city": "Chennai",
+      "website": "https://uniqwebtech.com",
+      "role": "Software Developer",
+      "from": "May 2019",
+      "to": "Nov 2019",
+      "accomplishments": [
+        "Developed e-commerce mobile apps with admin panels to meet industry standards."
+      ]
+    },
+    {
+      "companyName": "SA Engineering College",
+      "logo": "https://i.ibb.co/6HRbLpC/SAEC-150x150-removebg-preview.png",
+      "city": "Chennai",
+      "website": "https://uniqwebtech.com",
+      "role": "Software Developer & Assistant Professor",
+      "from": "June 2017",
+      "to": "May 2019",
+      "accomplishments": [
+        "Contributed to the development of LMS and student portal typically tailored to the needs of college students, staff and parents.",
+        "Professional teaching for B.E. Computer science engineering students"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "projectName": "Breathefree - India's first Lung leahth app from CIPLA",
+      "images": [
+        "https://play-lh.googleusercontent.com/o7LYCEPkWCaUwJbgSjeEoBxelVtdz9GOYjyt5D8ccrESGT7NuRVbeNXrx6HwCVUd9w=w5120-h2880"
+      ],
+      "playstore": "https://play.google.com/store/apps/details?id=breathefree.lung.health.asthma.breathing",
+      "appstore": "https://apps.apple.com/in/app/breathefree-lung-health-app/id6468069765",
+      "role": "Tech Lead, Front end Engineering",
+      "accomplishments": [
+        "Lead, develop, maintain the codebase; Roll out to Google Play with CI/CD setup, library patches.",
+        "Spearheaded a major code refactoring initiative to upgrade react native 0.67 to 0.72 and the entire android and iOS systems including gradle, cocoapods, etc.",
+        "CMS admin panel to control the widgets of the app."
+      ]
+    },
+    {
+      "projectName": "Wally - Digital Accessibility",
+      "images": [
+        "https://wallyax.com/images/d9dc9f03-7bfa-4d44-a919-cb33362d33c4.png",
+        "https://i.ibb.co/B4xHTWd/08b1892d-fe55-46c2-89fe-d7abbef2fd7d-removebg-preview.jpg"
+      ],
+      "website": "https://wallyax.com",
+      "role": "Front end Engineer",
+      "accomplishments": [
+        "WCAG Rules compliance, a11y",
+        "React with Redux Saga, Tailwind, Web socket."
+      ]
+    },
+    {
+      "projectName": "Mezzi - A digital way to build wealth",
+      "images": [
+        "https://assets-global.website-files.com/64ca9ca596d600d1ee4ef230/64cd692442f43fdb6e1ae546_app.webp"
+      ],
+      "appstore": "https://apps.apple.com/us/app/mezzi-build-wealth-faster/id6449714926",
+      "role": "Front end Engineer",
+      "accomplishments": [
+        "Flutter, Firebase (serverless) firestore, RTDB.",
+        "Integrated third party SDKs for share market portfolio."
+      ]
+    },
+    {
+      "projectName": "KredX – Invoice Discounting & Investments platform",
+      "images": [
+        "https://kredx-website-assets.s3.ap-southeast-1.amazonaws.com/new-theme/app-promotion-screen.png"
+      ],
+      "playstore": "https://play.google.com/store/apps/details?id=com.kredxinvest",
+      "appstore": "https://apps.apple.com/in/app/kredx-invest/id1428625124",
+      "role": "Front end Engineer",
+      "accomplishments": [
+        "Code revamp, security enhancements (Proguard), performance optimizations.",
+        "Contributed to Mandii – MSME Credit App by KredX."
+      ]
+    },
+    {
+      "projectName": "Infiviz Shots – Retail visual intelligence",
+      "images": [
+        "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/f0b7af24-b556-4c47-9afc-d8ebbc9587c8.png?auto=format&q=50",
+        "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/918f89c3-328b-4815-ab0c-4f3c315b9ef2.png"
+      ],
+      "website": "",
+      "playstore": "https://play.google.com/store/apps/details?id=infilect.infiviz",
+      "appstore": "https://apps.apple.com/tr/app/infiviz-shots/id1565312708?platform=iphone",
+      "role": "Front end Engineer",
+      "accomplishments": [
+        "Facilitates the brand representatives of different vendors to capture data about the way their products are being displayed on the shelves in different stores."
+      ]
+    },
+    {
+      "projectName": "Goan Repatriation services",
+      "images": [
+        "https://anthyesti.com/wp-content/uploads/2020/03/DBT_Goa.png",
+        "https://beleiv.com/wp-content/uploads/2022/03/dead-body-transportation-1024x296.jpg"
+      ],
+      "website": "https://goanrepatriationservices.com/",
+      "appstore": "https://apps.apple.com/in/app/goan-repatriation-services/id1493057016?platform=iphone",
+      "role": "Front end Engineer",
+      "accomplishments": [
+        "Mobile app with CMS admin panel built with MERN stack.",
+        "Razorpay payment integration."
+      ]
+    },
+    {
+      "projectName": "Be Gorgeous - A Green Trends Franchise",
+      "images": [
+        "https://smarther.co/wp-content/uploads/2020/01/bgorgeous-description_left.png",
+        "https://smarther.co/wp-content/uploads/2020/01/bgorgeous-description_right.png"
+      ],
+      "playstore": "https://play.google.com/store/apps/details?id=com.greentrends&hl=en",
+      "role": "Software Developer",
+      "accomplishments": [
+        "Mobile app with CMS admin panel built with MERN stack.",
+        "Resolved conflicts in building APIs for showing available slots based on parameters viz. ,salon location, weekend/weekday, shutdown, etc., to book a service."
+      ]
+    },
+    {
+      "projectName": "Mr.Maintenance - A smart Home cleaning service provider",
+      "images": [
+        "https://i.ibb.co/hcqWQJP/Screenshot-2024-01-09-at-6-39-54-PM-removebg-preview.png",
+        "https://smarther.co/wp-content/uploads/2020/01/mr_maintenance-description_left.png"
+      ],
+      "website": "",
+      "playstore": "https://www.smarther.co/project/mr-maintenance/",
+      "role": "Software Developer",
+      "accomplishments": [
+        "Mobile app with CMS admin panel built with MERN stack.",
+        "Resolved conflicts in building APIs for showing available slots based on parameters viz. ,salon location, weekend/weekday, shutdown, etc., to book a service."
+      ]
+    }
+  ]
+}

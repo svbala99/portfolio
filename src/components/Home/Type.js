@@ -1,16 +1,12 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
+import DATA from "../../CV_DATA.json";
 
 function Type() {
   return (
     <Typewriter
       options={{
-        strings: [
-          "Mobile Application Engineer",
-          "Frontend Engineer",
-          "MERN Stack Developer",
-          "Open Source Contributor",
-        ],
+        strings: DATA.roles,
         autoStart: true,
         loop: true,
         deleteSpeed: 50,
