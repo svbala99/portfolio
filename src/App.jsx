@@ -1,20 +1,22 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import React, { useEffect, useState } from "react";
 import {
-  HashRouter as Router,
   Navigate,
   Route,
+  HashRouter as Router,
   Routes,
 } from "react-router-dom";
 import "./App.css";
-import About from "./components/About/About";
-import Experience from "./components/Experience/Experience";
-import Footer from "./components/Footer";
-import Home from "./components/Home/Home";
-import Navbar from "./components/Navbar";
-import Projects from "./components/Projects/Projects";
-import Resume from "./components/Resume/ResumeNew";
-import ScrollToTop from "./components/ScrollToTop";
+import About from "./components/About/About.js";
+import Certifications from "./components/Certifications/Certifications.jsx";
+import Experience from "./components/Experience/Experience.js";
+import Footer from "./components/Footer.js";
+import Home from "./components/Home/Home.js";
+import Navbar from "./components/Navbar.js";
+import Projects from "./components/Projects/Projects.js";
+import Resume from "./components/Resume/ResumeNew.js";
+import ScrollToTop from "./components/ScrollToTop.js";
+import Skills from "./components/Skills/Skills.jsx";
 import "./style.css";
 
 // const PrivateRoute = ({ element }) => {
@@ -44,6 +46,8 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/experience" element={<Experience />} />
+          <Route path="/skills" element={<Skills />} />
+          <Route path="/certifications" element={<Certifications />} />
           <Route path="*" element={<Navigate to="/" />} />
 
           {/* Protected Route */}

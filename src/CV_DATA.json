@@ -207,5 +207,111 @@
         "Resolved conflicts in building APIs for showing available slots based on parameters viz. ,salon location, weekend/weekday, shutdown, etc., to book a service."
       ]
     }
+  ],
+  "certifications": [
+    {
+      "certificationName": "APIs and MicroServices",
+      "provider": "FreeCodeCamp",
+      "issued": "December 2019",
+      "expiry": "Lifetime",
+      "link": "https://www.freecodecamp.org/certification/svbala99/back-end-development-and-apis",
+      "image": "https://i.ibb.co/k3HqZwg/Screenshot-2024-01-10-at-5-12-44-PM.png"
+    },
+    {
+      "certificationName": "Cutshort certified React Native",
+      "provider": "Cutshort",
+      "issued": "April 2021",
+      "expiry": "Lifetime",
+      "link": "https://cutshort.io/certificate/41321",
+      "image": "https://cutshort.io/_next/image?url=https%3A%2F%2Fcdn.cutshort.io%2Fcertificates%2F41321.jpg&w=3840&q=75"
+    },
+    {
+      "certificationName": "Programming in Java",
+      "provider": "IIT Kharagpur",
+      "issued": "April 2019",
+      "expiry": "Lifetime",
+      "link": "https://archive.nptel.ac.in/noc/Ecertificate/?q=FDP/noc19-cs07/NPTEL19CS07S51222233191084973.jpg",
+      "image": "https://i.ibb.co/WFStM7y/Screenshot-2024-01-10-at-5-18-26-PM.png"
+    },
+    {
+      "certificationName": "Problem solving",
+      "provider": "HackerRank",
+      "issued": "September 2020",
+      "expiry": "Lifetime",
+      "link": "https://www.hackerrank.com/certificates/b4f159f75445",
+      "image": "https://i.ibb.co/TctRsRR/Screenshot-2024-01-10-at-4-01-34-PM.png"
+    },
+    {
+      "certificationName": "ES6 Javascript",
+      "provider": "SoloLearn",
+      "issued": "July 2020",
+      "expiry": "Lifetime",
+      "link": "https://www.sololearn.com/Certificate/CT-SKMO2HFW/pdf",
+      "image": "https://i.ibb.co/kqFdxfx/Screenshot-2024-01-10-at-4-03-39-PM.png"
+    },
+    {
+      "certificationName": "Game Development using PyGame",
+      "provider": "GUVI Geek Networks, IIT Madras Research Park",
+      "issued": "July 2020",
+      "expiry": "Lifetime",
+      "link": "https://www.guvi.in/verify-certificate?id=1xH5s7U3V9r29165I2",
+      "image": "https://i.ibb.co/HB4ftBM/Guvi-Certification-1x-H5s7-U3-V9r29165-I2.png"
+    },
+    {
+      "certificationName": "React with Redux state management",
+      "provider": "Sololearn",
+      "issued": "July 2020",
+      "expiry": "Lifetime",
+      "link": "https://www.sololearn.com/Certificate/CT-YXHKQKW2/pdf",
+      "image": "https://i.ibb.co/HVr4vq7/Screenshot-2024-01-10-at-5-05-23-PM.png"
+    },
+    {
+      "certificationName": "Blog Application using MERN stack",
+      "provider": "Udemy",
+      "issued": "June 2020",
+      "expiry": "Lifetime",
+      "link": "https://www.udemy.com/certificate/UC-48761b6f-55e1-4bc1-9434-1b2d7a94f078/",
+      "image": "https://udemy-certificate.s3.amazonaws.com/image/UC-48761b6f-55e1-4bc1-9434-1b2d7a94f078.jpg?v=1593192981000"
+    },
+    {
+      "certificationName": "Python - Hands ON (200 problems)",
+      "provider": "Udemy",
+      "issued": "June 2020",
+      "expiry": "Lifetime",
+      "link": "https://www.udemy.com/certificate/UC-7271d149-da12-4e0e-9681-266c4e3c34dd/",
+      "image": "https://udemy-certificate.s3.amazonaws.com/image/UC-7271d149-da12-4e0e-9681-266c4e3c34dd.jpg?v=1593192393000"
+    },
+    {
+      "certificationName": "React",
+      "provider": "Udemy",
+      "issued": "June 2020",
+      "expiry": "Lifetime",
+      "link": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-e484dea3-7355-476f-bbe0-c647a985a339.pdf",
+      "image": "https://i.ibb.co/xJGZT54/Screenshot-2024-01-10-at-5-09-22-PM.png"
+    },
+    {
+      "certificationName": "React Native with Redux and Hooks",
+      "provider": "Udemy",
+      "issued": "June 2020",
+      "expiry": "Lifetime",
+      "link": "https://www.udemy.com/certificate/UC-2ad6069c-147c-4c4a-a9c6-f96743e1ccc9/",
+      "image": "https://udemy-certificate.s3.amazonaws.com/image/UC-2ad6069c-147c-4c4a-a9c6-f96743e1ccc9.jpg?v=1593193267000"
+    },
+    {
+      "certificationName": "React with Node and Express",
+      "provider": "Udemy",
+      "issued": "June 2020",
+      "expiry": "Lifetime",
+      "link": "https://www.udemy.com/certificate/UC-3acf1ba8-15ad-4103-bc41-60935a5b1a5b/",
+      "image": "https://udemy-certificate.s3.amazonaws.com/image/UC-3acf1ba8-15ad-4103-bc41-60935a5b1a5b.jpg?v=1593184991000"
+    },
+    {
+      "certificationName": "Web Development with Javascript and PHP",
+      "provider": "Udemy",
+      "issued": "June 2020",
+      "expiry": "Lifetime",
+      "link": "https://www.udemy.com/certificate/UC-5fdb2b98-2f3a-47f1-9258-6784655e46b6/",
+      "image": "https://udemy-certificate.s3.amazonaws.com/image/UC-5fdb2b98-2f3a-47f1-9258-6784655e46b6.jpg?v=1593192677000"
+    }
   ]
 }

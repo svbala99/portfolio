@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+import { PiDotOutlineFill } from "react-icons/pi";
 
 function AboutCard() {
   return (
@@ -24,26 +24,47 @@ function AboutCard() {
             Tamilnadu, India
             <br />
             <br />
+            Some of the key achievements include:-
+            <ul>
+              <li className="about-activity">
+                <PiDotOutlineFill /> Established and implemented a comprehensive
+                testing strategy, reducing post-release issues by 20%.
+              </li>
+              <li className="about-activity">
+                <PiDotOutlineFill /> Successfully rolled-out multiple apps on
+                Google Play & Apple store, meeting the industry standards that
+                include best practices not limited to linting, folder structure
+                and performance optimizations.
+              </li>
+              <li className="about-activity">
+                <PiDotOutlineFill /> Fostered a culture of writing
+                self-explanatory code and the usage of JSDoc and imparted
+                continuous learning habits among the team members.
+              </li>
+            </ul>
+            <br />
+            <br />
             Being a javascript enthusiast, I prefer full stack javascript
             engineering, providing solutions to the engineering problems and I'd
             indulge in these for replenishment:-
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Pushing hobby projects to Github to explore the technologies such as React Native, React, Flutter.
+              <PiDotOutlineFill /> Pushing hobby projects to Github to explore
+              the technologies such as React Native, React, Flutter.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Cricket and Football
+              <PiDotOutlineFill /> Cricket and Football
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs, cooking
+              <PiDotOutlineFill /> Writing Tech Blogs, cooking
             </li>
             <li className="about-activity">
-              <ImPointRight /> Bike riding
+              <PiDotOutlineFill /> Bike riding
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "#0165FC" }}>
             "Self confidence + motivation = SUCCESS"
           </p>
           <footer className="blockquote-footer">Balamurugan</footer>

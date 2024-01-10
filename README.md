@@ -4,7 +4,7 @@
 
 [![GithubFollow @svbala99](https://img.shields.io/github/last-commit/svbala99/portfolio?)](https://github.com/svbala99/)[![GithubFollow @svbala99](https://img.shields.io/github/languages/count/svbala99/portfolio?color=orange)](https://github.com/svbala99/) [![GithubFollow @svbala99](https://img.shields.io/github/languages/top/svbala99/portfolio?color=blueviolet)](https://github.com/svbala99/) [![GithubFollow @svbala99](https://img.shields.io/github/languages/code-size/svbala99/portfolio?color=pink)](https://github.com/svbala99/) [![GithubFollow @svbala99](https://img.shields.io/github/repo-size/svbala99/portfolio)](https://github.com/svbala99/) [![GithubFollow @svbala99](https://img.shields.io/github/commit-activity/m/svbala99/portfolio?color=%23DB62B2%20)](https://github.com/svbala99/)
 
-<img src="https://i.ibb.co/v1RRBBn/oie-15n-YSb-A3fia4.png" width="180" height="400"/>
+<img src="https://i.ibb.co/v1RRBBn/oie-15n-YSb-A3fia4.png" width="1080" height="720"/>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
