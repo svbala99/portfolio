@@ -3,9 +3,9 @@ import React, { useEffect, useState } from "react";
 import {
   Navigate,
   Route,
-  BrowserRouter as Router,
   Routes,
 } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import "./App.css";
 import About from "./components/About/About";
 import Experience from "./components/Experience/Experience";
