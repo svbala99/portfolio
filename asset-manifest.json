@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b0127fe3.css",
-    "main.js": "/portfolio/static/js/main.d899c5ec.js",
+    "main.css": "/portfolio/static/css/main.e0cb3d7d.css",
+    "main.js": "/portfolio/static/js/main.08370302.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
-    "static/media/balamurugan.png": "/portfolio/static/media/balamurugan.8297dba0423e7fb75702.png",
     "static/media/logo.png": "/portfolio/static/media/logo.a0e79d0d67a8778972ca.png",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Balamurugan_CV.pdf": "/portfolio/static/media/Balamurugan_CV.8f01851e6745b7e0562e.pdf",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
-    "main.b0127fe3.css.map": "/portfolio/static/css/main.b0127fe3.css.map",
-    "main.d899c5ec.js.map": "/portfolio/static/js/main.d899c5ec.js.map",
+    "main.e0cb3d7d.css.map": "/portfolio/static/css/main.e0cb3d7d.css.map",
+    "main.08370302.js.map": "/portfolio/static/js/main.08370302.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0127fe3.css",
-    "static/js/main.d899c5ec.js"
+    "static/css/main.e0cb3d7d.css",
+    "static/js/main.08370302.js"
   ]
 }
