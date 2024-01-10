@@ -9,10 +9,7 @@ import { CgGitFork } from "react-icons/cg";
 import { ImBlog } from "react-icons/im";
 import { GrOrganization } from "react-icons/gr";
 import { LuBadgeCheck } from "react-icons/lu";
-import {
-  AiOutlineFundProjectionScreen,
-  AiOutlineUser,
-} from "react-icons/ai";
+import { AiOutlineFundProjectionScreen, AiOutlineUser } from "react-icons/ai";
 import { FaTools } from "react-icons/fa";
 import { CgFileDocument } from "react-icons/cg";
 
@@ -38,9 +35,14 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/portfolio" className="d-flex">
+        <Nav.Link
+          className="d-flex"
+          as={Link}
+          to="/"
+          onClick={() => updateExpanded(false)}
+        >
           <img src={logo} className="img-fluid logo" alt="brand" />
-        </Navbar.Brand>
+        </Nav.Link>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {
@@ -127,8 +129,7 @@ function NavBar() {
                 target="_blank"
                 className="fork-btn-inner"
               >
-                <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
-                {"Source code"}
+                <CgGitFork style={{ fontSize: "1.2em" }} /> {"Source code"}
               </Button>
             </Nav.Item>
           </Nav>
