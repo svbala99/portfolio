@@ -17,7 +17,7 @@ import {
   SiJest,
   SiMysql,
 } from "react-icons/si";
-import { DiHtml5, DiCss3, DiJavascript, DiAndroid } from "react-icons/di";
+import { DiHtml5, DiCss3, DiAndroid } from "react-icons/di";
 import { BiLogoTypescript, BiLogoRedux } from "react-icons/bi";
 
 function Techstack() {
