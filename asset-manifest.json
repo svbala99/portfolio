@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4c077ea4.css",
-    "main.js": "/static/js/main.63f01222.js",
+    "main.js": "/static/js/main.111ac0cf.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/balamurugan.png": "/static/media/balamurugan.8297dba0423e7fb75702.png",
     "static/media/logo.png": "/static/media/logo.a0e79d0d67a8778972ca.png",
@@ -12,11 +12,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.4c077ea4.css.map": "/static/css/main.4c077ea4.css.map",
-    "main.63f01222.js.map": "/static/js/main.63f01222.js.map",
+    "main.111ac0cf.js.map": "/static/js/main.111ac0cf.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c077ea4.css",
-    "static/js/main.63f01222.js"
+    "static/js/main.111ac0cf.js"
   ]
 }
