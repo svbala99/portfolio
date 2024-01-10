@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c077ea4.css",
+    "main.js": "/static/js/main.63f01222.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/balamurugan.png": "/static/media/balamurugan.8297dba0423e7fb75702.png",
+    "static/media/logo.png": "/static/media/logo.a0e79d0d67a8778972ca.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Balamurugan_CV.pdf": "/static/media/Balamurugan_CV.8f01851e6745b7e0562e.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.4c077ea4.css.map": "/static/css/main.4c077ea4.css.map",
+    "main.63f01222.js.map": "/static/js/main.63f01222.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c077ea4.css",
+    "static/js/main.63f01222.js"
+  ]
+}
