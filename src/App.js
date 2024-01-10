@@ -1,11 +1,11 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import React, { useEffect, useState } from "react";
 import {
+  BrowserRouter as Router,
   Navigate,
   Route,
   Routes,
 } from "react-router-dom";
-import { HashRouter as Router } from "react-router-dom";
 import "./App.css";
 import About from "./components/About/About";
 import Experience from "./components/Experience/Experience";
