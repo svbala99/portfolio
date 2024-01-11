@@ -22,7 +22,7 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <h3>
             {`Designed and Developed by `}
-            <a href="https://www.linkedin.com/in/svbala99/">svbala99</a>
+            <a href="https://www.linkedin.com/in/svbala99/">Balamurugan</a>
           </h3>
         </Col>
         <Col md="4" className="footer-copywright">

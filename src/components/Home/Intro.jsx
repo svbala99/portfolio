@@ -8,8 +8,9 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import DATA from "../../CV_DATA.json";
 
-function Home2() {
+function Intro() {
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
@@ -45,7 +46,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/svbala99"
+                  href={DATA.contact.find((i) => i.type === "github").url}
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -55,7 +56,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/svbala99"
+                  href={DATA.contact.find((i) => i.type === "twitter").url}
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -65,7 +66,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/svbala99/"
+                  href={DATA.contact.find((i) => i.type === "linkedin").url}
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/svbala99"
+                  href={DATA.contact.find((i) => i.type === "instagram").url}
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -90,4 +91,4 @@ function Home2() {
     </Container>
   );
 }
-export default Home2;
+export default Intro;

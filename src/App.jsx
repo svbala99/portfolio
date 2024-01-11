@@ -7,15 +7,15 @@ import {
   Routes,
 } from "react-router-dom";
 import "./App.css";
-import About from "./components/About/About.js";
+import About from "./components/About/About.jsx";
 import Certifications from "./components/Certifications/Certifications.jsx";
-import Experience from "./components/Experience/Experience.js";
-import Footer from "./components/Footer.js";
-import Home from "./components/Home/Home.js";
-import Navbar from "./components/Navbar.js";
-import Projects from "./components/Projects/Projects.js";
-import Resume from "./components/Resume/ResumeNew.js";
-import ScrollToTop from "./components/ScrollToTop.js";
+import Experience from "./components/Experience/Experience.jsx";
+import Footer from "./components/Footer.jsx";
+import Home from "./components/Home/Home.jsx";
+import Navbar from "./components/Navbar.jsx";
+import Projects from "./components/Projects/Projects.jsx";
+import Resume from "./components/Resume/Resume.jsx";
+import ScrollToTop from "./components/ScrollToTop.jsx";
 import Skills from "./components/Skills/Skills.jsx";
 import "./style.css";
 

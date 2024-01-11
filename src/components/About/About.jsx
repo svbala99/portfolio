@@ -1,8 +1,8 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Col, Container, Row } from "react-bootstrap";
+import laptopImg from "../../Assets/about.png";
 import Particle from "../Particle";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
 
 function About() {
   return (
@@ -19,7 +19,7 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Know Who <strong className="purple">I'M</strong>
+              Know Who <strong className="purple">I'm</strong>
             </h1>
             <Aboutcard />
           </Col>

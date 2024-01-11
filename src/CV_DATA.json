@@ -313,5 +313,11 @@
       "link": "https://www.udemy.com/certificate/UC-5fdb2b98-2f3a-47f1-9258-6784655e46b6/",
       "image": "https://udemy-certificate.s3.amazonaws.com/image/UC-5fdb2b98-2f3a-47f1-9258-6784655e46b6.jpg?v=1593192677000"
     }
+  ],
+  "contact": [
+    { "type": "github", "url": "https://github.com/svbala99" },
+    { "type": "twitter", "url": "https://twitter.com/svbala99" },
+    { "type": "linkedin", "url": "https://www.linkedin.com/in/svbala99/" },
+    { "type": "instagram", "url": "https://www.instagram.com/svbala99" }
   ]
 }

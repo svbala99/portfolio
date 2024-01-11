@@ -1,10 +1,10 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Col, Container, Row } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
-import Particle from "../Particle";
-import Home2 from "./Home2";
-import Type from "./Type";
 import DATA from '../../CV_DATA.json';
+import Particle from "../Particle";
+import Intro from "./Intro";
+import Type from "./Type";
 
 function Home() {
   return (
@@ -23,7 +23,7 @@ function Home() {
 
               <h1 className="heading-name">
                 This is
-                <strong className="main-name">{` ${DATA.firstName} ${DATA.lastName}`}</strong>
+                <strong className="main-name">{` ${DATA.firstName}`}</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -42,7 +42,7 @@ function Home() {
           </Row>
         </Container>
       </Container>
-      <Home2 />
+      <Intro />
     </section>
   );
 }

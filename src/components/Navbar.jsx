@@ -1,17 +1,16 @@
 import React, { useState } from "react";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
-import Container from "react-bootstrap/Container";
-import logo from "../Assets/logo.png";
 import Button from "react-bootstrap/Button";
-import { Link } from "react-router-dom";
-import { CgGitFork } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
-import { GrOrganization } from "react-icons/gr";
-import { LuBadgeCheck } from "react-icons/lu";
+import Container from "react-bootstrap/Container";
+import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
 import { AiOutlineFundProjectionScreen, AiOutlineUser } from "react-icons/ai";
+import { CgFileDocument, CgGitFork } from "react-icons/cg";
 import { FaTools } from "react-icons/fa";
-import { CgFileDocument } from "react-icons/cg";
+import { GrOrganization } from "react-icons/gr";
+import { ImBlog } from "react-icons/im";
+import { LuBadgeCheck } from "react-icons/lu";
+import { Link } from "react-router-dom";
+import logo from "../Assets/logo.png";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -61,7 +60,8 @@ function NavBar() {
                 to="/about"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineUser style={{ marginBottom: "2px" }} /> About
+                <AiOutlineUser style={{ marginBottom: "2px" }} />
+                {` About`}
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
@@ -72,8 +72,8 @@ function NavBar() {
               >
                 <AiOutlineFundProjectionScreen
                   style={{ marginBottom: "2px" }}
-                />{" "}
-                Projects
+                />
+                {` Projects`}
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
@@ -82,7 +82,8 @@ function NavBar() {
                 to="/skills"
                 onClick={() => updateExpanded(false)}
               >
-                <FaTools style={{ marginBottom: "2px" }} /> Skills
+                <FaTools style={{ marginBottom: "2px" }} />
+                {` Skills`}
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
@@ -111,7 +112,8 @@ function NavBar() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
+                <ImBlog style={{ marginBottom: "2px" }} />
+                {` Blogs`}
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
@@ -120,7 +122,8 @@ function NavBar() {
                 to="/resume"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
+                <CgFileDocument style={{ marginBottom: "2px" }} />
+                {` Resume`}
               </Nav.Link>
             </Nav.Item>
             <Nav.Item className="fork-btn">
@@ -129,7 +132,8 @@ function NavBar() {
                 target="_blank"
                 className="fork-btn-inner"
               >
-                <CgGitFork style={{ fontSize: "1.2em" }} /> {"Source code"}
+                <CgGitFork style={{ fontSize: "1.2em" }} />
+                {` Source code`}
               </Button>
             </Nav.Item>
           </Nav>
