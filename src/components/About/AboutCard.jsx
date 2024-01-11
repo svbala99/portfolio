@@ -64,7 +64,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "#0165FC" }}>
+          <p style={{ color: "#c770f0" }}>
             Self confidence + motivation = SUCCESS
           </p>
           <footer className="blockquote-footer">Balamurugan</footer>
