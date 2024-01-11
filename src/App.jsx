@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import {
   Navigate,
   Route,
-  HashRouter as Router,
+  BrowserRouter as Router,
   Routes,
 } from "react-router-dom";
 import "./App.css";

@@ -13,29 +13,32 @@ const styles = {
 };
 
 function CertificationCard({ data }) {
+  const {
+    image = "",
+    link = "",
+    certificationName = "",
+    provider = "",
+    expiry = "",
+    issued = "",
+  } = data;
   return (
     <Card className="project-card-view" style={{ alignItems: "center" }}>
-      <Card.Img
-        style={styles.img}
-        variant="top"
-        src={data?.image}
-        alt="card-img"
-      />
+      <Card.Img style={styles.img} variant="top" src={image} alt="card-img" />
       <Card.Body>
         <Button
           onClick={() => {
-            window.open(data.link, "_blank");
+            window.open(link, "_blank");
           }}
           target="_blank"
           variant="outline-dark"
           className="text-white"
         >
-          <Card.Title>{data.certificationName}</Card.Title>
+          <Card.Title>{certificationName}</Card.Title>
         </Button>
-        <Card.Subtitle className="mb-2 fs-6">{data.provider}</Card.Subtitle>
+        <Card.Subtitle className="mb-2 fs-6">{provider}</Card.Subtitle>
         <Card.Subtitle className="mb-2">
           <FiCalendar className="mx-2" />
-          {`${data.issued} - ${data.expiry}`}
+          {`${issued} - ${expiry}`}
         </Card.Subtitle>
       </Card.Body>
     </Card>

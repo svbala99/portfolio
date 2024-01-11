@@ -20,7 +20,7 @@ function AboutCard() {
             princess. Moreover, an <span className="purple"> OPTIMIST</span>
             <br />
             <br />
-            I pursued my master's from Vellore Institute of Technology,
+            I pursued my PG Degree from Vellore Institute of Technology,
             Tamilnadu, India
             <br />
             <br />
@@ -45,7 +45,7 @@ function AboutCard() {
             <br />
             <br />
             Being a javascript enthusiast, I prefer full stack javascript
-            engineering, providing solutions to the engineering problems and I'd
+            engineering, providing solutions to the engineering problems and I would
             indulge in these for replenishment:-
           </p>
           <ul>
@@ -65,7 +65,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "#0165FC" }}>
-            "Self confidence + motivation = SUCCESS"
+            Self confidence + motivation = SUCCESS
           </p>
           <footer className="blockquote-footer">Balamurugan</footer>
         </blockquote>

@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import Particle from "../Particle";
-import CertificationCard from "./CertificationCard";
+import Particle from "../Particle.jsx";
+import CertificationCard from "./CertificationCard.jsx";
 import DATA from "../../CV_DATA.json";
 
 const styles = {

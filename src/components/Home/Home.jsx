@@ -2,9 +2,9 @@ import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import DATA from '../../CV_DATA.json';
-import Particle from "../Particle";
-import Intro from "./Intro";
-import Type from "./Type";
+import Particle from "../Particle.jsx";
+import Intro from "./Intro.jsx";
+import Type from "./Type.jsx";
 
 function Home() {
   return (

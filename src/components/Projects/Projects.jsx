@@ -1,8 +1,8 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import DATA from "../../CV_DATA.json";
-import Particle from "../Particle";
-import ProjectCard from "./ProjectCard";
+import Particle from "../Particle.jsx";
+import ProjectCard from "./ProjectCard.jsx";
 
 const styles = {
   row: { justifyContent: "center", paddingBottom: "10px" },
