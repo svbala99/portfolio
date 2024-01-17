@@ -210,6 +210,22 @@
   ],
   "certifications": [
     {
+      "certificationName": "Javascript Algorithms & Data Structures",
+      "provider": "FreeCodeCamp",
+      "issued": "January 2024",
+      "expiry": "Lifetime",
+      "link": "https://www.freecodecamp.org/certification/svbala99/javascript-algorithms-and-data-structures",
+      "image": "https://i.ibb.co/1Z8sF6d/Screenshot-2024-01-17-at-12-50-51-PM.png"
+    },
+    {
+      "certificationName": "Front end Development Libraries",
+      "provider": "FreeCodeCamp",
+      "issued": "January 2024",
+      "expiry": "Lifetime",
+      "link": "https://www.freecodecamp.org/certification/svbala99/front-end-development-libraries",
+      "image": "https://i.ibb.co/98YfW5N/Screenshot-2024-01-17-at-12-56-13-PM.png"
+    },
+    {
       "certificationName": "APIs and MicroServices",
       "provider": "FreeCodeCamp",
       "issued": "December 2019",
