@@ -20,7 +20,7 @@ function Intro() {
               A brief <span className="purple"> INTRODUCTION </span> of myself
             </h1>
             <p className="home-about-body">
-              Optimistic front end engineer offering 6+ years of experience
+              Optimistic front end engineer offering 5 years of experience
               providing high-impact mobile & web application engineering
               solutions for diverse industry verticals that include
               <b className="purple">

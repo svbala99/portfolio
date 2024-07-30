@@ -4,7 +4,7 @@
   "logo": "./src/Assets/logo.png",
   "avatar": "./src/Assets/balamurugan.png",
   "roles": [
-    "Mobile Application Engineer",
+    "React Native Engineer",
     "Frontend Engineer",
     "MERN Stack Developer",
     "Open Source Contributor"
@@ -17,7 +17,7 @@
       "website": "https://divum.ai",
       "role": "Tech Lead",
       "from": "June 2022",
-      "to": "Present",
+      "to": "April 2024",
       "accomplishments": [
         "Led the implementation and delivery of major product features.",
         "Uplifted code quality, design patterns, architectural choices within the team resulting in 25% increase in user engagement.",
@@ -38,44 +38,20 @@
       ]
     },
     {
-      "companyName": "Recrosoft Technologies Pvt Ltd",
-      "logo": "https://recro.io/static/svg/logo.svg",
-      "city": "Bengaluru",
-      "website": "https://recro.io",
-      "role": "Software Engineer",
-      "from": "Dec 2020",
-      "to": "Apr 2021",
-      "accomplishments": [
-        "Ensured end-to-end ownership and support of features, maintaining high app quality and performance."
-      ]
-    },
-    {
       "companyName": "Infilect Technologies Pvt Ltd",
-      "logo": "https://i.ibb.co/jkmV7zn/infilect-logo-removebg-preview.png",
+      "logo": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/c4w6ajaoatekdv0ofk67",
       "city": "Bengaluru",
       "website": "https://www.infilect.com",
       "role": "React native Engineer",
-      "from": "Jun 2020",
+      "from": "Jan 2020",
       "to": "Dec 2020",
       "accomplishments": [
         "Leveraged Typescript for efficient development, placing a strong emphasis on testing and quality practices."
       ]
     },
     {
-      "companyName": "Mindship Technologies LLP",
-      "logo": "https://i.ibb.co/v4DB0Fz/1630568500211-removebg-preview.png",
-      "city": "Bengaluru",
-      "website": "https://www.mindship.io",
-      "role": "Software Engineer",
-      "from": "Jan 2020",
-      "to": "May 2020",
-      "accomplishments": [
-        "Collaborated with the UI/UX team to build intuitive and responsive user interfaces."
-      ]
-    },
-    {
       "companyName": "Uniq Web Tech",
-      "logo": "https://i.ibb.co/nc47Kzh/logo-grey.png",
+      "logo": "https://image4.owler.com/logo/uniqwebtech_owler_20160229_191930_original.jpg",
       "city": "Chennai",
       "website": "https://uniqwebtech.com",
       "role": "Software Developer",
@@ -84,22 +60,20 @@
       "accomplishments": [
         "Developed e-commerce mobile apps with admin panels to meet industry standards."
       ]
-    },
-    {
-      "companyName": "SA Engineering College",
-      "logo": "https://i.ibb.co/6HRbLpC/SAEC-150x150-removebg-preview.png",
-      "city": "Chennai",
-      "website": "https://uniqwebtech.com",
-      "role": "Software Developer & Assistant Professor",
-      "from": "June 2017",
-      "to": "May 2019",
-      "accomplishments": [
-        "Contributed to the development of LMS and student portal typically tailored to the needs of college students, staff and parents.",
-        "Professional teaching for B.E. Computer science engineering students"
-      ]
     }
   ],
   "projects": [
+    {
+      "projectName": "Daikin ONE home - Monitor and control HVAC system on App store and Google Play",
+      "images": [
+        "https://play-lh.googleusercontent.com/SLTRe2ndTWzA4CGybP-5_BwlqS1yprW4qHTOYa4fOyqBDk0dliLiX29yuSuWYxlLFQ=w1052-h592",
+        "https://play-lh.googleusercontent.com/qsuCHeE_DNgHU_VZwCz9F1VF_VOYntPk_TpVa5mcLYwC_BsgWbkR6Dy6yKVhKUjKJJU=w1052-h592"
+      ],
+      "playstore": "https://play.google.com/store/apps/details?id=com.daikincomfort.daikinonehome&hl=en_IN",
+      "appstore": "https://apps.apple.com/us/app/daikin-one-home/id1458663374",
+      "role": "SDE-II, Front end Engineering",
+      "accomplishments": ["Bug fixing, new feature addition in react native."]
+    },
     {
       "projectName": "Breathefree - India's first Lung leahth app from CIPLA",
       "images": [
@@ -117,8 +91,8 @@
     {
       "projectName": "Wally - Digital Accessibility",
       "images": [
-        "https://wallyax.com/images/d9dc9f03-7bfa-4d44-a919-cb33362d33c4.png",
-        "https://i.ibb.co/B4xHTWd/08b1892d-fe55-46c2-89fe-d7abbef2fd7d-removebg-preview.jpg"
+        "https://apostrophe-wallyax.s3.amazonaws.com/attachments/clvf8kj4u00n5a2pg9qy7a2ei-home-sample-report.max.png",
+        "https://apostrophe-wallyax.s3.amazonaws.com/attachments/clvgkgk5v0622a2pg99iz9ads-report-sample.max.png"
       ],
       "website": "https://wallyax.com",
       "role": "Front end Engineer",
@@ -130,7 +104,8 @@
     {
       "projectName": "Mezzi - A digital way to build wealth",
       "images": [
-        "https://assets-global.website-files.com/64ca9ca596d600d1ee4ef230/64cd692442f43fdb6e1ae546_app.webp"
+        "https://i.ibb.co/1Q5s7x8/300x0w-removebg-preview.png",
+        "https://i.ibb.co/zNT5xgw/Screenshot-2024-07-30-at-7-04-09-PM-removebg-preview.png"
       ],
       "appstore": "https://apps.apple.com/us/app/mezzi-build-wealth-faster/id6449714926",
       "role": "Front end Engineer",
@@ -196,7 +171,7 @@
     {
       "projectName": "Mr.Maintenance - A smart Home cleaning service provider",
       "images": [
-        "https://i.ibb.co/hcqWQJP/Screenshot-2024-01-09-at-6-39-54-PM-removebg-preview.png",
+        "https://smarther.co/wp-content/uploads/2020/01/mr_maintenance-description_right.png",
         "https://smarther.co/wp-content/uploads/2020/01/mr_maintenance-description_left.png"
       ],
       "website": "",
@@ -215,7 +190,7 @@
       "issued": "January 2024",
       "expiry": "Lifetime",
       "link": "https://www.freecodecamp.org/certification/svbala99/javascript-algorithms-and-data-structures",
-      "image": "https://i.ibb.co/1Z8sF6d/Screenshot-2024-01-17-at-12-50-51-PM.png"
+      "image": "https://drive.google.com/file/d/1fA9sQgq2xb8wcKKFHSrOA-IKEvcXg3EN/view?usp=share_link"
     },
     {
       "certificationName": "Front end Development Libraries",
@@ -223,7 +198,7 @@
       "issued": "January 2024",
       "expiry": "Lifetime",
       "link": "https://www.freecodecamp.org/certification/svbala99/front-end-development-libraries",
-      "image": "https://i.ibb.co/98YfW5N/Screenshot-2024-01-17-at-12-56-13-PM.png"
+      "image": "https://drive.google.com/file/d/1TkJiz6ulkiX1QqfsljwB_PRjXQ6XHag1/view?usp=share_link"
     },
     {
       "certificationName": "APIs and MicroServices",
@@ -231,7 +206,7 @@
       "issued": "December 2019",
       "expiry": "Lifetime",
       "link": "https://www.freecodecamp.org/certification/svbala99/back-end-development-and-apis",
-      "image": "https://i.ibb.co/k3HqZwg/Screenshot-2024-01-10-at-5-12-44-PM.png"
+      "image": "https://drive.google.com/file/d/1qyebJLSR8j_ZyhCDG80IJfBVzrxdEWbY/view?usp=share_link"
     },
     {
       "certificationName": "Cutshort certified React Native",
@@ -247,7 +222,7 @@
       "issued": "April 2019",
       "expiry": "Lifetime",
       "link": "https://archive.nptel.ac.in/noc/Ecertificate/?q=FDP/noc19-cs07/NPTEL19CS07S51222233191084973.jpg",
-      "image": "https://i.ibb.co/WFStM7y/Screenshot-2024-01-10-at-5-18-26-PM.png"
+      "image": "https://drive.google.com/file/d/1jvUa0bUah6ZiutUCAomznCU-I6kgVOwZ/view?usp=share_link"
     },
     {
       "certificationName": "Problem solving",
@@ -255,7 +230,7 @@
       "issued": "September 2020",
       "expiry": "Lifetime",
       "link": "https://www.hackerrank.com/certificates/b4f159f75445",
-      "image": "https://i.ibb.co/TctRsRR/Screenshot-2024-01-10-at-4-01-34-PM.png"
+      "image": "https://drive.google.com/file/d/1ns30M_epGWfpRcpAH8Jw-uOX0qUygPzH/view?usp=share_link"
     },
     {
       "certificationName": "ES6 Javascript",
@@ -263,7 +238,7 @@
       "issued": "July 2020",
       "expiry": "Lifetime",
       "link": "https://www.sololearn.com/Certificate/CT-SKMO2HFW/pdf",
-      "image": "https://i.ibb.co/kqFdxfx/Screenshot-2024-01-10-at-4-03-39-PM.png"
+      "image": "https://drive.google.com/file/d/1v1kcHEIFzzTEXU8_dKM5BSXDupIDw0Em/view?usp=share_link"
     },
     {
       "certificationName": "Game Development using PyGame",
@@ -271,7 +246,7 @@
       "issued": "July 2020",
       "expiry": "Lifetime",
       "link": "https://www.guvi.in/verify-certificate?id=1xH5s7U3V9r29165I2",
-      "image": "https://i.ibb.co/HB4ftBM/Guvi-Certification-1x-H5s7-U3-V9r29165-I2.png"
+      "image": "https://drive.google.com/file/d/17OD__hwFvc9xDbsQUUbUN5OIXdtBs78-/view?usp=share_link"
     },
     {
       "certificationName": "React with Redux state management",
@@ -279,7 +254,7 @@
       "issued": "July 2020",
       "expiry": "Lifetime",
       "link": "https://www.sololearn.com/Certificate/CT-YXHKQKW2/pdf",
-      "image": "https://i.ibb.co/HVr4vq7/Screenshot-2024-01-10-at-5-05-23-PM.png"
+      "image": "https://drive.google.com/file/d/1jSszFAGexa2MKyUg6D4bGN3lQhSh_Kia/view?usp=share_link"
     },
     {
       "certificationName": "Blog Application using MERN stack",
@@ -303,7 +278,7 @@
       "issued": "June 2020",
       "expiry": "Lifetime",
       "link": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-e484dea3-7355-476f-bbe0-c647a985a339.pdf",
-      "image": "https://i.ibb.co/xJGZT54/Screenshot-2024-01-10-at-5-09-22-PM.png"
+      "image": "https://drive.google.com/file/d/15mV4v142i8JRtQaWlLjW043mxN0RVe5m/view?usp=share_link"
     },
     {
       "certificationName": "React Native with Redux and Hooks",
