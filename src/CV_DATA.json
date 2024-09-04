@@ -11,6 +11,18 @@
   ],
   "experience": [
     {
+      "companyName": "Softway Solutions Pvt Ltd",
+      "logo": "https://www.softway.com/hs-fs/hubfs/Softway_Logo.png?width=2106&height=557&name=Softway_Logo.png",
+      "city": "Bengaluru",
+      "website": "https://www.softway.com/",
+      "role": "Senior Software Engineer",
+      "from": "April 2024",
+      "to": "July 2024",
+      "accomplishments": [
+        "Contributed to the development of mobile and web apps using React & React native with monorepo tools such as nx console, MVC pattern, etc."
+      ]
+    },
+    {
       "companyName": "Divum Corporate Services Pvt Ltd",
       "logo": "https://uploads-ssl.webflow.com/64d655209af30b2ac5ce111c/64d655209af30b2ac5ce1179_Divum_Logo.svg",
       "city": "Bengaluru",
