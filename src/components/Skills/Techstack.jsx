@@ -1,24 +1,26 @@
-import React from "react";
+import { BiLogoRedux, BiLogoTypescript, BiTestTube } from "react-icons/bi";
 import { Col, Row } from "react-bootstrap";
+import { DiAndroid, DiCss3, DiHtml5 } from "react-icons/di";
 import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
   DiGit,
+  DiJavascript1,
+  DiMongodb,
+  DiNodejs,
+  DiReact,
 } from "react-icons/di";
 import {
-  SiFirebase,
   SiEslint,
-  SiXcode,
-  SiIos,
-  SiMixpanel,
   SiFastlane,
+  SiFirebase,
+  SiIos,
   SiJest,
+  SiMixpanel,
   SiMysql,
+  SiXcode,
 } from "react-icons/si";
-import { DiHtml5, DiCss3, DiAndroid } from "react-icons/di";
-import { BiLogoTypescript, BiLogoRedux } from "react-icons/bi";
+
+import { AiOutlineExperiment } from "react-icons/ai";
+import React from "react";
 
 function Techstack() {
   return (
@@ -94,6 +96,14 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiMysql />
         <h6>MySQL</h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <BiTestTube />
+        <h6>Detox</h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <AiOutlineExperiment />
+        <h6>Growthbook</h6>
       </Col>
     </Row>
   );

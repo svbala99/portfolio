@@ -1,14 +1,15 @@
-import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../Assets/home-main.svg";
-import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
+  AiOutlineTwitter,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { Col, Container, Row } from "react-bootstrap";
+
 import DATA from "../../CV_DATA.json";
+import { FaLinkedinIn } from "react-icons/fa";
+import React from "react";
+import Tilt from "react-parallax-tilt";
+import homeLogo from "../../Assets/home-main.svg";
 
 function Intro() {
   return (
@@ -20,18 +21,23 @@ function Intro() {
               A brief <span className="purple"> INTRODUCTION </span> of myself
             </h1>
             <p className="home-about-body">
-              Optimistic front end engineer offering 5 years of experience
-              providing high-impact mobile & web application engineering
-              solutions for diverse industry verticals that include
+              Results-driven frontend and mobile engineer with 6+ years of experience
+              building scalable, high-performance applications across mobile, web,
+              and smart TV platforms. Experienced in leading engineering teams,
+              architecting production-grade systems, and delivering end-to-end
+              solutions from concept to global release.
               <b className="purple">
-                AI-powered retail intelligence, fintech, e-commerce, CMS &
-                healthcare.
+                {" "}
+                Expertise spans AI-enabled consumer platforms, fintech applications,
+                digital health solutions, gamified engagement systems, and enterprise
+                CMS ecosystems.
               </b>
               <br />
               <br />
-              Demonstrated leadership and proven expertise in developing and
-              deploying apps across web,{" "}
-              <b className="purple">Android & iOS platforms.</b>
+              Proven track record of launching and scaling products across
+              <b className="purple"> iOS, Android, Web, and Smart TV platforms</b>
+              while driving engineering excellence, performance optimization,
+              and data-driven product improvements.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

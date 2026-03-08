@@ -4,12 +4,42 @@
   "logo": "./src/Assets/logo.png",
   "avatar": "./src/Assets/balamurugan.png",
   "roles": [
-    "React Native Engineer",
-    "Frontend Engineer",
-    "MERN Stack Developer",
+    "SDE-III Frontend Engineer",
+    "Mobile App Engineer (React Native)",
+    "Web Developer (React)",
     "Open Source Contributor"
   ],
   "experience": [
+    {
+      "companyName": "Habuild HealthTech Pvt Ltd",
+      "logo": "https://create.habuild.in/logo.png",
+      "city": "Bengaluru",
+      "website": "https://habuild.in/",
+      "role": "SDE-III Frontend Engineer",
+      "from": "September 2024",
+      "to": "Present",
+      "accomplishments": [
+        "Led end-to-end architecture and development of the flagship React Native mobile application, building the app from scratch and successfully launching it on Google Play Store and Apple App Store, while continuously managing store compliance, releases, and version upgrades management system.",
+        "Managed and mentored a team of 6 engineers, driving sprint ceremonies (planning, stand-ups, reviews, retrospectives), technical decision-making, and close collaboration with Product, Design, QA, and Backend teams",
+        "Enforced engineering excellence practices across frontend repositories by standardizing strong TypeScript usage, modular architecture, MVC patterns, and DRY, KISS, SOLID principles, reducing technical debt and improving maintainability",
+        "Designed scalable state management using Redux Saga to handle complex async workflows, improving reliability and predictability of business-critical features",
+        "Implemented unit testing with React Native Testing Library (RNTL at >90% coverage and end-to-end testing with Detox, improving regression safety and reducing production defects by ~30%",
+        "Automated CI/CD pipelines using Fastlane and Firebase App Distribution, enabling faster internal testing and release workflows, reducing build and release turnaround time by ~40%",
+        "Integrated CodePush OTA updates to ship critical fixes and minor features instantly without requiring full store releases, improving hotfix turnaround by ~60%",
+        "Implemented Sentry-based crash monitoring and performance tracking, significantly improving debugging efficiency and reducing crash resolution time",
+        "Built engaging in-app experiences using React Native Skia and Reanimated, introducing gamified features such as Snake, Sudoku, and Number Puzzle, resulting in ~20–25% increase in user session duration",
+        "Developed pedometer-based activity tracking by integrating Apple HealthKit and Android Health Connect, enabling fitness-driven features and improving user retention in activity-based cohorts by ~15%",
+        "Enabled WebView-based game integrations, allowing web-based games to run inside the mobile app and expanding the in-app entertainment ecosystem",
+        "Integrated Firebase services including Push Notifications and Remote Config to dynamically control feature rollouts and messaging strategies, improving notification CTR by ~15%",
+        "Leveraged MoEngage and Mixpanel for advanced product analytics, user segmentation, funnel tracking, and engagement campaigns to drive data-informed product decisions",
+        "Implemented A/B experimentation frameworks for feature rollouts and UI improvements, resulting in measurable improvements such as ~10–18% uplift in feature adoption and engagement",
+        "Implemented In-App Review and In-App Update flows, improving store ratings and accelerating adoption of newer versions",
+        "Led periodic platform upgrades across React, React Native, Android, iOS, and package dependencies to maintain long-term stability, performance, and platform compatibility",
+        "Contributed to multiple frontend platforms and repositories including the Challenge App, Member App, Admin Panel, CRM Dashboard, and internal tools such as a CMS for managing mobile app content and campaigns",
+        "Architected and delivered an Android Smart TV application from scratch, successfully launching it across LG TV, Samsung TV, Android TV, and Amazon Fire TV, expanding product reach to the connected TV ecosystem",
+        "Leveraged AI-assisted development workflows (Claude code agents and modern AI tooling) to accelerate development, automate repetitive engineering tasks, and improve overall team productivity"
+      ]
+    },
     {
       "companyName": "Softway Solutions Pvt Ltd",
       "logo": "https://www.softway.com/hs-fs/hubfs/Softway_Logo.png?width=2106&height=557&name=Softway_Logo.png",
@@ -19,7 +49,12 @@
       "from": "April 2024",
       "to": "July 2024",
       "accomplishments": [
-        "Contributed to the development of mobile and web apps using React & React native with monorepo tools such as nx console, MVC pattern, etc."
+        "Contributed to the development of cross-platform mobile and web applications using React and React Native within an Nx-based monorepo architecture, following MVC patterns to ensure scalable and maintainable codebases",
+        "Implemented and maintained feature modules and shared components across mobile and web platforms, improving development efficiency through reusable and modular architecture",
+        "Set up Reactotron debugging and performance profiling workflows to monitor application state, network activity, and performance bottlenecks, enabling faster debugging and optimization of runtime performance",
+        "Optimized application performance through profiling, render optimization, and efficient state management, reducing unnecessary re-renders and improving overall app responsiveness",
+        "Contributed to the development and maintenance of a private in-house UI component library, published as a private npm package, enabling standardized design systems and reusable components across multiple projects",
+        "Debugged and resolved production issues by analyzing logs, reproducing issues, and implementing reliable fixes to improve application stability"
       ]
     },
     {
@@ -31,9 +66,19 @@
       "from": "June 2022",
       "to": "April 2024",
       "accomplishments": [
-        "Led the implementation and delivery of major product features.",
-        "Uplifted code quality, design patterns, architectural choices within the team resulting in 25% increase in user engagement.",
-        "Conducted comprehensive code reviews, fostering a culture of testing and automation."
+        "Led and managed a team of 4 frontend engineers, to deliver a high-quality healthcare application, first of its kind in India, providing technical direction, mentoring, and delivery oversight while fostering a collaborative and high-performance engineering culture.",
+        "Elevated code quality, architectural standards, and design patterns across the frontend codebase, introducing structured practices that contributed to ~35% increase in user engagement.",
+        "Conducted rigorous pull request reviews, enforcing best practices, maintainability standards, and performance optimizations while promoting a strong culture of testing and automation.",
+        "Built and integrated several native modules to extend React Native capabilities for platform-specific functionalities and improved app performance.",
+        "Implemented GitHub-based CI/CD pipelines to automate build, test, and deployment workflows, improving release reliability and reducing manual overhead.",
+        "Integrated Datadog monitoring and observability tools to track application performance, logs, and metrics, enabling faster issue detection and resolution.",
+        "Integrated AppsFlyer attribution and analytics to support marketing campaigns and ad attribution, enabling data-driven growth and campaign optimization.",
+        "Delivered advanced third-party integrations, including a lung health detection feature leveraging Fourier sound transform analysis to analyze cough sound waves and provide health insights.",
+        "Led technical mentoring initiatives, organizing knowledge-sharing sessions and encouraging engineers to pursue industry certifications (AWS, Google, etc.) to strengthen the team’s technical capabilities.",
+        "Improved app store acquisition performance, increasing overall app downloads by ~25–30% through improved onboarding flows, performance improvements, and campaign integrations.",
+        "Redesigned and enhanced key features such as medicine reminders and breathing exercises, improving usability and increasing feature adoption by ~40%.",
+        "Optimized performance and stability across the application, reducing overall crash rates by ~45–50% through improved error handling, monitoring, and proactive debugging.",
+        "Collaborated closely with product, design, and backend teams to translate healthcare product requirements into scalable, user-centric frontend solutions."
       ]
     },
     {
@@ -45,8 +90,19 @@
       "from": "May 2021",
       "to": "May 2022",
       "accomplishments": [
-        "Led and contributed to the development of performant web & mobile applications.",
-        "Demonstrated strong communication and planning skills, aligning development efforts with customer needs."
+        "Led and contributed to the development of performant web and mobile applications, ensuring responsive UI, scalable architecture, and reliable production releases.",
+        "Demonstrated strong communication and planning skills, aligning development efforts with customer needs and collaborating effectively with cross-functional teams.",
+        "Worked as a React Native Engineer (SDE-1), developing cross-platform mobile features and maintaining production-grade applications with a focus on performance and usability.",
+        "Developed and maintained React-based dashboard applications using Tailwind CSS and Redux Saga, enabling scalable state management and improving dashboard responsiveness by ~25%.",
+        "Contributed to the development of a fintech-focused mobile application involving stock market data visualization, real-time price updates, and portfolio tracking, optimizing rendering and data-fetching strategies to reduce latency by ~30%.",
+        "Implemented efficient API integration and caching strategies for market data, improving load times for stock listings and portfolio views by ~20%.",
+        "Enhanced user profile management and onboarding flows, resulting in ~15–20% growth in active user registrations.",
+        "Worked with Flutter to contribute to both mobile and web applications, expanding cross-platform delivery capabilities and ensuring feature parity across platforms.",
+        "Acted as a primary frontend contributor across multiple projects, independently delivering critical features and maintaining application stability in fast-paced development cycles.",
+        "Improved UI consistency and reusability by introducing shared component patterns and reusable utilities across web and mobile codebases.",
+        "Optimized application performance through render optimization, lazy loading, and improved state management, reducing unnecessary re-renders and improving page performance by ~20%.",
+        "Collaborated closely with backend teams to design API contracts and ensure efficient data handling for high-frequency financial data.",
+        "Actively participated in debugging and production issue resolution, improving application stability and reducing user-reported issues by ~25%."
       ]
     },
     {
@@ -58,7 +114,20 @@
       "from": "Jan 2020",
       "to": "Dec 2020",
       "accomplishments": [
-        "Leveraged Typescript for efficient development, placing a strong emphasis on testing and quality practices."
+        "Leveraged TypeScript for efficient development, placing a strong emphasis on testing, type safety, and overall code quality practices.",
+        "Worked at an SDE-1 capacity as an Individual Contributor, delivering key mobile features independently while ensuring high reliability and maintainability.",
+        "Developed and maintained cross-platform mobile features using React Native, improving overall application responsiveness and stability.",
+        "Led the migration of the codebase from JavaScript to TypeScript, improving type safety, developer productivity, and reducing runtime errors by ~25%.",
+        "Spearheaded the upgrade of the React Native framework following major breaking changes introduced around the 0.59 version, ensuring compatibility with newer dependencies and improving build stability.",
+        "Implemented custom native modules for advanced functionalities such as background synchronization, local notification handling, and platform-specific optimizations.",
+        "Designed and maintained local data persistence using Realm DB, including schema migrations and optimized data handling for background image uploads involving 100+ images per batch.",
+        "Optimized large media upload workflows with background processing and retry mechanisms, improving upload success rates by ~30% under unstable network conditions.",
+        "Developed responsive UI layouts supporting both mobile devices and iPad/tablet form factors, ensuring consistent user experience across multiple screen sizes and resolutions.",
+        "Managed application release cycles including build preparation, store listing updates, metadata management, and submission processes for both App Store and Play Store.",
+        "Improved application performance through render optimizations, efficient state management, and reduced unnecessary re-renders, resulting in ~20% faster screen load times.",
+        "Collaborated closely with backend teams to optimize API interactions and improve data synchronization reliability.",
+        "Maintained strong development continuity during the COVID-19 remote work transition, ensuring consistent feature delivery and application stability despite operational challenges.",
+        "Actively monitored production issues and implemented fixes, contributing to a ~30% reduction in user-reported defects over time."
       ]
     },
     {
@@ -70,11 +139,43 @@
       "from": "May 2019",
       "to": "Nov 2019",
       "accomplishments": [
-        "Developed e-commerce mobile apps with admin panels to meet industry standards."
+        "Developed end-to-end e-commerce applications including customer-facing mobile apps and admin dashboards, delivering solutions aligned with modern industry standards.",
+        "Built cross-platform mobile applications using React Native and Native Android, delivering multiple production-ready apps within rapid development cycles of ~1–2 months.",
+        "Developed and maintained RESTful APIs using Node.js and PHP for both new and legacy systems, enabling scalable backend integrations and improving API response times by ~20%.",
+        "Built full-stack web applications using the MERN stack (MongoDB, Express.js, React, Node.js), delivering scalable dashboards and business management tools.",
+        "Deployed and managed full-stack applications on AWS infrastructure, improving system availability and enabling reliable production deployments.",
+        "Implemented responsive web design using Bootstrap, Material UI, and Semantic UI with well-defined breakpoints, ensuring consistent UX across desktop, tablet, and mobile devices.",
+        "Designed and developed admin panels for managing products, orders, users, and analytics, improving operational efficiency for business stakeholders.",
+        "Delivered multiple applications under tight timelines, maintaining rapid release cycles while ensuring production stability and functional completeness.",
+        "Optimized frontend performance through efficient component structures, API caching strategies, and improved rendering practices, reducing page load times by ~25%.",
+        "Collaborated directly with clients and product stakeholders to gather requirements, iterate on features quickly, and deliver production-ready solutions.",
+        "Improved overall application stability by implementing structured error handling, logging, and monitoring practices.",
+        "Maintained multiple projects simultaneously, contributing to faster delivery timelines and supporting business growth through scalable digital platforms."
       ]
     }
   ],
   "projects": [
+    {
+      "projectName": "Habuild Yoga Everyday - Daily yoga practice app on App store and Google Play",
+      "images": [
+        "https://play-lh.googleusercontent.com/35h8G8WPqQz0peomZUksf6RQOdZoFaaWtliWD7CZSdb7tdWApeQ6p05a40fUMZkAZCKn=w5120-h2880-rw",
+        "https://play-lh.googleusercontent.com/og2qL2g8wpmEJWDEiILaEu7fGBoC8RwJNQZInz5d9ir4JIBfZE-Ymb8qBSC42EX8Ce8=w5120-h2880-rw"
+      ],
+      "playstore": "https://play.google.com/store/apps/details?id=in.habuild&hl=en_IN",
+      "appstore": "https://apps.apple.com/us/app/habuild-online-yoga-everyday/id6743130736",
+      "website": "https://play.google.com/store/apps/details?id=com.habuildtv",
+      "role": "SDE-III & Lead Mobile, Front end Engineering",
+      "accomplishments": [
+        "Architected and built the Habuild mobile app from scratch using React Native, establishing scalable architecture, enforcing engineering best practices (TypeScript, modular design, feature-based structure), and owning the product lifecycle from development to successful App Store & Play Store launches while continuing long-term maintenance and feature evolution.",
+        "Collaborated closely with product and growth teams to improve DAU/MAU by ~30–35%, introducing engagement-driven features such as native local reminder notifications (Android & iOS) which replaced large-scale third-party push/WhatsApp messaging (previously ~5M messages/day at ~₹0.3–0.5 per message), significantly reducing messaging costs while maintaining strong user engagement.",
+        "Built gamified engagement experiences using React Native Reanimated and Skia, including Snake, Sudoku, Number Puzzle, and animated Box Breathing modules, contributing to ~20–25% improvement in user retention and session duration.",
+        "Co-developed and launched the Habuild TV application from scratch using React Native, successfully deploying to Android Smart TV, Amazon Fire TV, LG webOS, and Samsung Tizen platforms, expanding the product ecosystem to connected TV devices.",
+        "Implemented scalable state management using Redux Saga along with a strong automated testing culture using React Native Testing Library and Detox, building 250+ test suites and ~3000 automated test cases to improve regression safety and release confidence.",
+        "Strengthened application security and reliability by implementing SSL pinning, Proguard rules, jailbreak/root detection, and secure build configurations across platforms.",
+        "Designed and developed an internal CMS platform using Next.js, enabling business teams to manage content, campaigns, notifications, and feature configurations directly from a centralized web admin dashboard.",
+        "Led continuous platform modernization by upgrading to the latest React Native, React, and dependency versions, ensuring improved performance, long-term maintainability, and compatibility with evolving platform requirements."
+      ]
+    },
     {
       "projectName": "Daikin ONE home - Monitor and control HVAC system on App store and Google Play",
       "images": [
@@ -83,7 +184,7 @@
       ],
       "playstore": "https://play.google.com/store/apps/details?id=com.daikincomfort.daikinonehome&hl=en_IN",
       "appstore": "https://apps.apple.com/us/app/daikin-one-home/id1458663374",
-      "role": "SDE-II, Front end Engineering",
+      "role": "Senior Software Engineer, Front end Engineering",
       "accomplishments": ["Bug fixing, new feature addition in react native."]
     },
     {

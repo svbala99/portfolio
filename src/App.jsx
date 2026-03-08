@@ -1,12 +1,15 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import React, { useEffect, useState } from "react";
+import "./App.css";
+import "./style.css";
+
 import {
   Navigate,
   Route,
   HashRouter as Router,
   Routes,
 } from "react-router-dom";
-import "./App.css";
+import React, { useEffect, useState } from "react";
+
 import About from "./components/About/About.jsx";
 import Certifications from "./components/Certifications/Certifications.jsx";
 import Experience from "./components/Experience/Experience.jsx";
@@ -17,13 +20,12 @@ import Projects from "./components/Projects/Projects.jsx";
 import Resume from "./components/Resume/Resume.jsx";
 import ScrollToTop from "./components/ScrollToTop.jsx";
 import Skills from "./components/Skills/Skills.jsx";
-import "./style.css";
 
 // const PrivateRoute = ({ element }) => {
 //   return false ? element : <Navigate to="/login" replace />;
 // };
 
-function App() {
+const App = () => {
   const [load, upadateLoad] = useState(true);
 
   useEffect(() => {
